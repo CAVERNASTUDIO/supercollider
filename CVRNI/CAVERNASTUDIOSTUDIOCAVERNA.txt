@@ -1,21 +1,10 @@
-
--   Caverna Æ        
-
-CAVERNA STUDIOÆ
-
-  
-----------------------------------------------------------------------------
-STUDIO CAVERNAÆ
-
 The following collection of documents is registered under the license:
                
                GNU Free Documentation License
                  Version 1.3, 3 November 2008
- 
  Copyright (c) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc.
- 
- 
- Copyright (c)  2021  MR Caverna GarcÌa- All rights reserved.
+Copyright (c)  2021  MR Caverna Garc√≠a - All rights reserved.
+Copyright (c) 2025 Erik Alejandro Garc√≠a Aparcio - All rights reserved.
 
 
 
@@ -30,14 +19,7 @@ Free Documentation License".
 
 
 This work is licensed under the Creative Commons Attribution 3.0 United States License. To view a copy of this license, visit http://creativecommons.org/licenses/by/3.0/us/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
-<!---
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
---->
-<!---
-CAVERNASTUDIO/CAVERNASTUDIO is a ? special ? repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<!---
+
 Studio Caverna, grabacion, creacion y distribucion de documentos en multiples formatos.
 THIS WORK IS PROVIDED BY THE COPYRIGHT HOLDER AND
 CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
@@ -53,29 +35,3 @@ STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     Copyright (C) 2021  MR Caverna Garcia.
---->
-
-<!---Studio Caverna
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Studio Caverna/Caverna Studio</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" property="cc:attributionName" rel="cc:attributionURL">MR Caverna</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://bandcamp.com/srcaverna" rel="dct:source">https://bandcamp.com/srcaverna</a>.<br />Puede hallar permisos m·s all· de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" rel="cc:morePermissions">https://bandcamp.com/srcaverna</a>
---->
-<!---Caverna Studio
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Caverna Studio</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" property="cc:attributionName" rel="cc:attributionURL">MR Caverna</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://bandcamp.com/srcaverna" rel="dct:source">https://bandcamp.com/srcaverna</a>.<br />Puede hallar permisos m·s all· de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" rel="cc:morePermissions">https://bandcamp.com/srcaverna</a>
---->
-<!---Erik Alejandro Garcia Aparicio 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">MR Caverna</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" property="cc:attributionName" rel="cc:attributionURL">https://bandcamp.com/srcaverna</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://bandcamp.com/srcaverna" rel="dct:source">https://bandcamp.com/srcaverna</a>.<br />Puede hallar permisos m·s all· de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" rel="cc:morePermissions">https://bandcamp.com/srcaverna</a>
---->
-<!---Erik Garcia
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">MR Caverna</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" property="cc:attributionName" rel="cc:attributionURL">Erik Garcia</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://bandcamp.com/srcaverna" rel="dct:source">https://bandcamp.com/srcaverna</a>.<br />Puede hallar permisos m·s all· de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" rel="cc:morePermissions">https://bandcamp.com/srcaverna</a>
---->
-<!---Alejandro Garcia
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">MR Caverna</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" property="cc:attributionName" rel="cc:attributionURL">Alejandro Garcia </a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://bandcamp.com/srcaverna" rel="dct:source">https://bandcamp.com/srcaverna</a>.<br />Puede hallar permisos m·s all· de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" rel="cc:morePermissions">https://bandcamp.com/srcaverna</a>
---->
-<!---
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">srcaverna</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" property="cc:attributionName" rel="cc:attributionURL">MR Caverna Garcia</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://bandcamp.com/srcaverna" rel="dct:source">https://bandcamp.com/srcaverna</a>.<br />Puede hallar permisos m·s all· de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/srcaverna" rel="cc:morePermissions">https://bandcamp.com/srcaverna</a>
---->
-<!---
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">copyright</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/copyright" property="cc:attributionName" rel="cc:attributionURL">MR Caverna Garcia</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://bandcamp.com/copyright" rel="dct:source">https://bandcamp.com/copyright</a>.<br />Puede hallar permisos m·s all· de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="https://bandcamp.com/copyright" rel="cc:morePermissions">https://bandcamp.com/copyright</a>
---->
-<!---
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">copyright</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.copyright.gov/legislation/dmca.pdf" property="cc:attributionName" rel="cc:attributionURL">MR Caverna Garcia</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Reconocimiento 4.0 Internacional License</a>.<br />Creado a partir de la obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://www.copyright.gov/legislation/dmca.pdf" rel="dct:source">https://www.copyright.gov/legislation/dmca.pdf</a>.<br />Puede hallar permisos m·s all· de los concedidos con esta licencia en <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.copyright.gov/legislation/dmca.pdf" rel="cc:morePermissions">https://www.copyright.gov/legislation/dmca.pdf</a>
---->
