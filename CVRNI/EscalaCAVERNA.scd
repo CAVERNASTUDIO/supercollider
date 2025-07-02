@@ -49,7 +49,7 @@ dada esta relación podemos identificar un número limitado de notas para realiz
 /* scale*/
 // ------------------------------------------------------
 Scale.directory // imprime en post-window un directorio de escalas que se pueden ingresar dentro de la funcion:
-// variable = Funcion . [Comando de la escala identificado por el directorio] . degrees
+//[ variable=Funcion.Comando de la escala identificado por el directorio.degrees ]
 ~scale = Scale. spanish.degrees//degrees indica los valores que se identifican con dicha escala
 ~scale = Scale. atharKurd.degrees
 ~scale = Scale. prometheus.degrees
@@ -59,7 +59,7 @@ Scale.directory // imprime en post-window un directorio de escalas que se pueden
 ~scale = Scale. major.degrees
 /*Identificando los valores de escalas estos necesitan ingresarse nota por nota, es decir, debe reproducirse un conjunto de datos de manera melódica (dentro de una armonía) para ello utilizaremos el comando \note de igual manera para obtener los datos para ingresar en una escala identificable en  midi se necesita hacer conversión de los datos para que sean leíbles por el comando \midinote */
 
-//escuchar escala con el comando note
+//escuchar escala con el comando note (puede escuchar la escala uno, dos, tres, cuatro, cinco etc. seleccionando la variable)
 (
 Pbind(
 	\note,Pseq(~scale,inf),
@@ -67,10 +67,10 @@ Pbind(
 .play) //por defecto hace referencia a la octava C4 de el comando midi, Es decir, dentro de esta escala encontramos directamente la frecuencia 440hz correspondiente a la nota A4
 
 /*Para identificar la escala respecto a una tonalidad se puede sumar las cantidades correspondientes para cada nota*/
-/*nota: Puedo asignar un número a la escala para subir la tonalidad y de igual manera puedo asignar un numero para elegir la octava, ambos números se sumaran, en el caso de el número de tonalidad dependerá de la tabla de valores anterior y en el caso de la octava dependerá de la nota raíz de la octava en la que queremos trabajar.
+/*nota: Puedo asignar un número a la escala para subir la tonalidad y de igual manera puedo asignar un numero para elegir la octava, ambos números se sumaran, en el caso de el número de tonalidad dependerá de la tabla de valores anterior y en el caso de la octava dependerá de la nota raíz de la octava en la que queremos trabajar. SC solo reproduce una octava de escala detectada a la hora de iniciar la variable. 
+en el caso de los valores negativos para las notas de el instrumento se debe sumar el valor de la nota que estamos asignando a la variable (Tomar en cuenta la tabla de tonalidades para referir una frecuencia.).
 
 ----------------------Tabla de valores de suma  para  tonalidades de octava SC*-----
-en el caso de los valores negativos para las notas de el instrumento se debe sumar el valor de la nota que estamos asignando a la variable (Tomar en cuenta la tabla de tonalidades para referir una frecuencia.).
 
 TONO| valor +
 
@@ -105,7 +105,7 @@ si  B      11
  C1         -36
  C2         -24
  C3         -12
- C4   octava de el instrumento por default encontramos 440hz en el comando de la
+ C4          octava de el instrumento por default encontramos 440hz en el comando de la
  C5          12
  C6          24
  C7          36
@@ -122,7 +122,8 @@ si  B      11
 ~vo=36 //variable octava
 ~scaleto=~escn+~vo.postln;//valores positivos
 ~scaleto=~escn-~vo.postln;//valores negativos
-(
+
+(//Reproduce la variable scaleto
 Pbind(
 	\note,Pseq(~scaleto++~scaleto.reverse,inf),
 	 \dur, 1/4,)
@@ -137,7 +138,7 @@ Pbind(
      -36 -35 -34 -33 -32 -31 -30  -29 -28  -27  -26  -25 C1
      -24 -23 -22 -21 -20 -19 -18  -17 -16  -15  -14  -13 C2
      -12 -11 -10 -9  -8  -7  -6   -5  -4   -3   -2   -1  C3
-\note 0   1   2   3   4   5   6    7   8    9    10   11 C6 Octava donde encontramos A440hzSC
+\note 0   1   2   3   4   5   6    7   8    9    10   11 C4 Octava donde encontramos A440hz SC
       12  13  14  15  16  17  18   19  20   21   22   23 C5
       24  25  26  27  28  29  30   31  32   33   34   35 C6
       36  37  38  39  40  41  42   43  44   45   46   47 C7
