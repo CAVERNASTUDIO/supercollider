@@ -2,9 +2,9 @@
 */
 //NOTA: usa CTrl + (tecla +) para manipular la visualizacion de el texto.
 
-/*FRECUENCIAS*/
+/*FRECUENCIA (\Frec)*/
 //----------------------------------------------------------------------------------------------------------
-/*Al manipular frecuencias con los comandos \frec con el comando Pn(referido a nota) dentro de Pbind en este tipo desarrollo de código al reproducir un conjunto de notas, estas se reproducen en conjunto formando lo que se denomina una armonía, un conjunto de frecuencias correctas es conocido como acorde.  */
+/*Al manipular frecuencias con los comandos \frec con el comando Pn(referido a nota) dentro de Pbind en este tipo desarrollo de código, al reproducir un conjunto de notas estas se reproducen en conjunto formando lo que se denomina como armonía, un conjunto de frecuencias correctas es conocido como acorde.  */
 
 //____________________________________*/
 /*ACORDES CON VALORES DE FRECUENCIA*/
@@ -12,10 +12,10 @@
 /*Al hablar de valores midi se debe tomar en cuenta las equivalencias respecto a las frecuencias y el valor de los valores midi, estos se pueden identificar fácilmente con una tabla de equivalencias de valores midi.
 puede consultar la siguiente liga:
 https://musytech.com/introduccion-a-midi-y-controladores-midi-en-la-produccion-musical/
-Para evitar calcular los acordes, existen diferentes dispositivos/instrumentos que identifican los acordes en un cuadernillo o ponen a disposición un archivo en línea para consulta, como puede ser un piano, un arpa, una guitarra etc. en este tipo de casos en específico es de gran ayuda contar con material de este tipo. Puede consultar directamente con la marca de su preferencia directamente en sus publicaciones, apoyarse de material como libros, revistas o publicaciones de estudiosos dentro de la materia o consultar con un experto o maestro dentro de el área.
+Para evitar calcular los acordes, existen diferentes dispositivos/instrumentos que identifican los acordes en un cuadernillo o ponen a disposición un archivo en línea para consulta, como puede ser un piano, un arpa, una guitarra etc. En este tipo de casos en específico es de gran ayuda contar con material de este tipo. Puede consultar directamente con la marca de su preferencia directamente en sus publicaciones, apoyarse de material como libros, revistas o publicaciones de estudiosos dentro de la materia o consultar con un experto o maestro dentro de el área.
 */
 
-/*Con el concepto de piano de los acordes de piano podemos elegir valores de frecuencia que operen dentro de el rango necesario para realizar un acorde, con los valores midi debemos tomar los valores necesarios para trabajar en formato estándar con los valores de los acordes */
+/*Con el concepto de piano, podemos elegir valores de frecuencia que operen dentro de el rango necesario para realizar un acorde, con los valores midi debemos tomar los valores necesarios para trabajar en formato estándar con los valores de los acordes */
 
 (
 /*C Mayor*/
