@@ -48,8 +48,8 @@ dada esta relación podemos identificar un número limitado de notas para realiz
 
 /* scale*/
 // ------------------------------------------------------
-Scale.directory // imprime en post-window un directorio de escalas que se pueden ingresar dentro de la funcion:
-//[ variable=Funcion.Comando de la escala identificado por el directorio.degrees ]
+Scale.directory // imprime en post-window un directorio de escalas que se pueden ingresar dentro de la función:
+//[ variable ]= [Función].[Comando de la escala identificado por el directorio].[degrees ] 
 ~scale = Scale. spanish.degrees//degrees indica los valores que se identifican con dicha escala
 ~scale = Scale. atharKurd.degrees
 ~scale = Scale. prometheus.degrees
@@ -57,7 +57,7 @@ Scale.directory // imprime en post-window un directorio de escalas que se pueden
 ~scale = Scale. egyptian.degrees
 ~scale = Scale. marva.degrees
 ~scale = Scale. major.degrees
-/*Identificando los valores de escalas estos necesitan ingresarse nota por nota, es decir, debe reproducirse un conjunto de datos de manera melódica (dentro de una armonía) para ello utilizaremos el comando \note de igual manera para obtener los datos para ingresar en una escala identificable en  midi se necesita hacer conversión de los datos para que sean leíbles por el comando \midinote */
+/*Identificando los valores de escalas estos necesitan ingresarse nota por nota, es decir, debe reproducirse un conjunto de datos de manera melódica (dentro de una armonía) para ello utilizaremos el comando \note de igual manera para obtener los datos para ingresar en una escala identificable en midi se necesita hacer conversión de los datos para que sean leíbles por el comando \midinote */
 
 //escuchar escala con el comando note (puede escuchar la escala uno, dos, tres, cuatro, cinco etc. seleccionando la variable)
 (
@@ -105,7 +105,7 @@ si  B      11
  C1         -36
  C2         -24
  C3         -12
- C4          octava de el instrumento por default encontramos 440hz en el comando de la
+ C4          octava de el instrumento por default encontramos 440hz en el comando de La4 estandar
  C5          12
  C6          24
  C7          36
